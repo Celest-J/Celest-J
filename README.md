@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/juxtapo9090/kd-pager"><img src="img/tile-kd-pager.png" alt="kd-pager — KD in your pocket" width="49%"></a>
+  <a href="https://github.com/Celest-J/kd-pager"><img src="img/tile-kd-pager.png" alt="kd-pager — KD in your pocket" width="49%"></a>
   <img src="img/tile-house-ledger.png" alt="house-ledger — the lab's receipts (private)" width="49%">
 </p>
 

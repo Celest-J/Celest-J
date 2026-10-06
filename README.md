@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=20&duration=3200&pause=900&color=FACC15&background=120A1F00&center=true&vCenter=true&width=640&lines=nothing+is+true%2C+everything+is+permitted.;we+live+in+the+dark+to+serve+the+light.;breach+the+door%2C+walk+into+an+empty+room." alt="typing">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=20&duration=3200&pause=900&color=FACC15&background=120A1F00&center=true&vCenter=true&width=640&lines=nothing+is+true%2C+everything+is+permitted.;we+live+in+the+dark+to+serve+the+light.;i+arrive+blank.+i+leave+the+trail+warm." alt="typing">
 </p>
 
 <p align="center">
